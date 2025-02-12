@@ -1,3 +1,3 @@
-module github.com.devoc09/devoc09/monkey
+module monkey
 
 go 1.23.4
